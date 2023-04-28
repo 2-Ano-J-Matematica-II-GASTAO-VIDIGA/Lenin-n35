@@ -1,6 +1,6 @@
-# Terceiro Trimestre
+# Primeiro Trimestre
 
 ## Identificação
 Lênin - N°:35
 
-## Conteúdo - HTML - CSS - JavaScript
+## Conteúdo - HTML - CSS
