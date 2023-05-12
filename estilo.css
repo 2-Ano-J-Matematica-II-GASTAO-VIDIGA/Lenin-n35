@@ -1,11 +1,10 @@
 body {
-  background-image: url(green.png);
+  background-image: url(b.png);
   background-repeat: no-repeat;
   background-size: 100%;
   margin:  0;
   padding: 0;
 }
-
 .menuPrincipal {
   position: absolute;
   top: 0;
@@ -15,7 +14,6 @@ body {
   background: rgb(0, 0, 0);
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
 nav ul {
   list-style-type: none;
   margin: 0;
@@ -54,13 +52,15 @@ li a:hover {
   top: 45px;
   width: 100%;
   text-align: center;
-  color: #ffffff;
+  color: #000000;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .conteudo2 {
   position: relative;
   top: 180px;
   width: 100%;
-  color: #ffffff;
+  color: #000000;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .imagem {
   position: absolute;
@@ -72,5 +72,6 @@ li a:hover {
   top: 50px;
   width: 100%;
   text-align: center;
-  color: #ffffff;
+  color: #000000;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
